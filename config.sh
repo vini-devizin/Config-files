@@ -25,3 +25,4 @@ if ls ~/ | grep -q "Config-files"; then
 	else
 		echo "Arquivo .tmux.conf já está em seu devido lugar"
 	fi
+fi
