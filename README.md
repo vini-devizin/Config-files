@@ -9,19 +9,19 @@ git clone https://github.com/vini-devizin/Config-files.git
 Para usar meus scripts você tem que habilitar a função de executar com:
 
 ``` bash
-chmod +x ~/install.sh && chmod +x ~/config.sh
+chmod +x ~/Config-files/install.sh && chmod +x ~/Config-files/config.sh
 ```
 
 Rode primeiro o install.sh com:
 
 ``` bash
-./install.sh
+./Config-files/install.sh
 ```
 
 E depois o config.sh com:
 
 ``` bash
-./config.sh
+./Config-files/config.sh
 ```
 
 # Temas para usar no alacritty
