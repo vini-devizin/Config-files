@@ -34,3 +34,5 @@ import:
 ```
 
 Repositório com temas para o alacritty: [alacritty-themes](https://github.com/alacritty/alacritty-theme)
+
+Sobre a configuração do tmux, você não vê ele normalmente porque ele é um dotfile, mas o config.sh configura ele também
